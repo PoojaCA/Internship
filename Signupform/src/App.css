@@ -1,0 +1,27 @@
+.box {
+  position: relative;
+  margin:60px auto;
+  max-width: 700px;
+  background: lightgrey;
+  padding: 30px;
+  text-align: center;
+  border-radius: 20px;
+  font-size: 1rem;
+}
+
+.lbl{
+  text-align: left;
+   display: block;
+    width: 100%;
+    max-width: 100%;
+    padding: 0;
+    margin-bottom: .5rem;
+    font-size: 1.5rem;
+    line-height: inherit;
+    color: inherit;
+    white-space: normal;
+}
+
+.lbl1{
+  text-align: left;
+}
